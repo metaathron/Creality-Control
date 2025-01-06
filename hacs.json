@@ -1,8 +1,6 @@
 {
-  "name": "Creality",
+  "name": "Creality-Control",
   "content_in_root": false,
   "homeassistant": "2021.6.0",
   "render_readme": true,
-  "zip_release": true,
-  "filename": "creality.zip"
 }
